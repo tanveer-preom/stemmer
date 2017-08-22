@@ -139,17 +139,29 @@
       <footer class="page-footer orange">
          <div class="container">
             <div class="row">
+
                <div class="col l6 s12">
                   <h5 class="white-text">About </h5>
                   <p class="grey-text text-lighten-4">A Prefix-Suffix Based Bangla Word
                      Stemmer  <br> Using N-Gram Language Model</p>
                </div>
+
+               <div class="col l6 s12">
+                  <h5 class="white-text">SUST NLP GROUP </h5>
+                  <p class="grey-text text-lighten-4">
+                         CSE, SUST
+                  </p>
+               </div>
+
+
             </div>
          </div>
          <div class="footer-copyright">
             <div class="container">
-               Prepared by <a class="orange-text text-lighten-3" href="http://nlp.sust.edu/" target="_blank">SUST NLP RESEARCH GROUP</a>
+              Prepared  by <a class="orange-text text-lighten-3" href="http://nlp.sust.edu/" target="_blank">SUST NLP RESEARCH GROUP</a>
             </div>
+
+
          </div>
       </footer>
 
